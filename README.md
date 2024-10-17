@@ -1,6 +1,6 @@
 Descrição do Projeto : 
 
-O Projeto Trigotech tem como objetivo desenvolver uma calculadora trigonométrica do seno utilizando a linguagem de programação Python.
+O Projeto Trigotech tem como objetivo desenvolver uma calculadora trigonométrica do seno utilizando a linguagem de programação Javascript.
 
 Funcionalidades
 
@@ -17,7 +17,7 @@ Exibição dos resultados diretamente na tela.
 
 Tecnologias Utilizadas
 
-Linguagem: Python
+Linguagem: JavaScript 
 
 IDE: Visual Studio Code
 
